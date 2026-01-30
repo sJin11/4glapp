@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>web test</h2>
+<h2>github test</h2>
 </body>
 </html>
